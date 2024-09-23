@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	margin: 0 auto;
+	width: 70%;
+}
+i{
+	font-size: 50px;
+	margin-right: 50px;
+}
+.bi-facebook{
+	color: #3b5998;
+}
+.bi-twitter{
+	color: #00acee;
+}
+.bi-instagram{
+	color: #0e76a8;
+}
+.bi-linkedin{
+	color: #0072b1;
+}
+.bi-whatsapp{
+	color: #12af0a;
+}
